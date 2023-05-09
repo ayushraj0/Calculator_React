@@ -13,12 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Have Fun!
 
 
-## Available Scripts
-<p align="center"><img src="images/Calculator.png" alt="light mode - darkmode - simple Calculator"></p>
-
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
