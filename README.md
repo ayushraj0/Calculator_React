@@ -3,7 +3,7 @@
 <p align="center"><img src="src/images/Calculator.png" alt="Calculator in React"/></p>
 
 **Demo:**
-https://www.projects.mohamadhossein.ir/calculator/
+https://ayushraj0.github.io/Calculator_React/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
