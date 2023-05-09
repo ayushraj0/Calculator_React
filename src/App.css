@@ -1,0 +1,85 @@
+body{
+    background-color: #171717;
+
+}
+.minHe{
+    min-height: 92vh;
+}
+
+.Calculator{
+    background-color: #5c698e;
+    border-radius: 30px;
+    max-width: 450px;
+    width: 100%;
+    margin:0px auto;
+    transition: 0.3s;
+}
+.Operations{
+display: flex;         
+    flex-direction: column;
+    grid-gap: 10px;
+    gap: 10px;
+    background: #363d55;
+    padding: 30px 25px;
+    border-radius: 30px;
+    transition: 0.3s;
+
+    
+
+}
+.dot{
+    flex: 45.5%;
+}
+.dot button{
+    max-width: none;
+}
+.Operations .parent{
+display: flex;        
+
+    gap: 10px;
+}
+.equals{
+    z-index: 1;
+}
+.equals button{
+    color: white;
+    background-color: rgb(60, 123, 148);
+    padding:98px 0;
+display: flex;         
+
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.last__pa{
+    margin-top: -104px;
+}
+
+
+.padding__box{
+    padding: 20px;
+}
+
+
+.noneBtn{
+    visibility: hidden;
+}
+@media only screen and (max-width: 600px) {
+    .Calculator{
+        max-width: 300px;
+    }
+    .equals button{
+        padding:55px 0;        
+    }
+    
+    .last__pa{
+        margin-top: -60px;
+    }
+    .Calculator{
+        margin-top: 60px;
+    }
+    
+}
+
+
