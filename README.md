@@ -1,20 +1,20 @@
 # _Calculator_ - A **React Calculator** with the basic functions
 
-<p align="center"><img src="images/Calculator.png" alt="Calculator in React"/></p>
+<p align="center"><img src="src/images/Calculator.png" alt="Calculator in React"/></p>
 
 **Demo:**
 https://www.projects.mohamadhossein.ir/calculator/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**fast run:**
+**Fast Run:**
 ----
-1. extract "build.zip" in your host directory
-2. have fun!
+1. Extract "build.zip" in your host directory
+2. Have Fun!
 
 
 ## Available Scripts
-<p align="center"><img src="https://user-images.githubusercontent.com/40790864/135969886-51301ca3-6a68-421d-b81a-82d691d6da04.JPG" alt="light mode - darkmode - simple Calculator"></p>
+<p align="center"><img src="images/Calculator.png" alt="light mode - darkmode - simple Calculator"></p>
 
 
 In the project directory, you can run:
